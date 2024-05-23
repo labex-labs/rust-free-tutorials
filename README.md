@@ -6,8 +6,8 @@
 
 Rust is a modern systems programming language focusing on safety, speed, and concurrency. It is syntactically similar to C++, but is designed to provide better memory safety while maintaining high performance.
 
-|   Index | Name                                                     | Difficulty   | Tutorial                                                                                                             |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Tutorial                                                                                                            |
+|---------|---------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Your First Rust Lab                                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-rust-lab-101055)                                            |
 |     002 | 📖 Rust Installation Guide                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/rust-installation-guide-100383)                                        |
 |     003 | 📖 Beginner's Rust Programming: Hello World              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/beginner-s-rust-programming-hello-world-100384)                        |
@@ -279,7 +279,8 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Rust Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Rust Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
